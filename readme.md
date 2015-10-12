@@ -1,0 +1,1 @@
+This is a simple static page built to re-position elements for desktop, tablet, and phone.  Makes use of media queries.
